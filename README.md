@@ -1,4 +1,4 @@
-# Adaptive-Image-Transformer (AIT)
+# Adaptive Image Transformer (AIT)
 
 <p align="left">
 <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.pdf">
