@@ -1,4 +1,4 @@
-# Adaptive-Image-Transformer
+# Adaptive-Image-Transformer (AIT)
 
 <p align="left">
 <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.pdf">
@@ -7,7 +7,7 @@
 
 This repository provides the official implementation of the key modules introduced in "**Adaptive Image Transformer for One-Shot Object Detection** (CVPR 2021)."
 
-**TL;DR:** An encoder-decoder attention module (ATI) for adaptive proposal-query alignment, along with a selective attention mechanism (SCA) that amplifies or suppresses contributions across heads
+**TL;DR:** AIT uses an encoder-decoder architecture for adaptive proposal-query alignment, along with selective channel attention (SCA) that amplifies or suppresses contributions across heads
 
 ---
 
