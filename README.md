@@ -15,6 +15,20 @@ This repository provides the official implementation of the key modules introduc
 
 - Accepted to CVPR 2021
 
+<table width="100%" border=1 frame=void rules=cols>
+  <tr>
+  <td style="border-left-style:none; border-right-style:none;">
+    <b>Table of Contents</b><br><br>
+    <a href="#1">1. Stepup</a><br>
+    <a href="#1.1">1.1 Create Conda Environment</a><br>
+    <a href="#1.2">1.2 Installation</a><br>
+    <a href="#2">2. Prerequisites</a><br>
+    <a href="#3">3. Run Adaptive Image Transformer</a><br>
+    <a href="#4">4. Citation</a><br>
+    <a href="#5">5. Acknowledgements</a><br>
+  </tr>
+</table>
+
 ## 🛠️ <a name="1"></a> 1. Setup
 
 The project is tested on Python 3.10 and NVIDIA CUDA GPUs
@@ -60,6 +74,18 @@ ait/
 ```bash=
 python adaptive_image_transformer.py
 ```
+
+You'll see that the output shows, for example, 128 proposals from Faster R-CNN and a batch size of 4. The proposal input is shaped as `batch_size × num_proposals` along the first dimension, and the module outputs refined proposal features.
+```bash=
+--------------------------------------------------
+Input shape:
+        Proposal: 512 x 1024 x 7 x 7
+          Query : 4 x 1024 x 8 x 8
+
+Output shape:
+        Reconstruted Proposal: 512 x 1024 x 8 x 8
+```
+
 
 ## 🔖 <a name="4"></a> 4. Citation
 
