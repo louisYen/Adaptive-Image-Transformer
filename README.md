@@ -4,14 +4,18 @@
 <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.pdf">
   <img src="https://img.shields.io/static/v1?label=Paper&message=Link&color=red" height="20.5">
 </a>
+  
+<a href="https://homepage.iis.sinica.edu.tw/~liutyng/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/3W9vtBl.png" alt="Logo" width="20" height="20"/></a> By Ding-Jie Chen, He-Yen Hsieh, and Tyng-Luh Liu
 
 This repository provides the official implementation of the key modules introduced in "**Adaptive Image Transformer for One-Shot Object Detection** (CVPR 2021)."
 
 **TL;DR:** AIT uses an encoder-decoder architecture for adaptive proposal-query alignment, along with selective channel attention (SCA) that amplifies or suppresses contributions across heads
 
-<a href="https://homepage.iis.sinica.edu.tw/~liutyng/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/3W9vtBl.png" alt="Logo" width="20" height="20"/></a> By Ding-Jie Chen, He-Yen Hsieh, and Tyng-Luh Liu
-
 ###### tags: `transformer`, `encoder-decoder`, `attention`, `object detection`
+
+<p align="left">
+  <img src="assets/ait-teaser.jpg" alt="EDIT banner" width="50%">
+</p>
 
 ---
 
