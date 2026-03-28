@@ -1,7 +1,7 @@
 # Adaptive-Image-Transformer
 
 <p align="left">
-<a href="[https://arxiv.org/abs/2512.00670](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.pdf)">
+<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.pdf">
   <img src="https://img.shields.io/static/v1?label=Paper&message=Link&color=red" height="20.5">
 </a>
 
