@@ -43,7 +43,7 @@ conda activate AIT
 
 ### <a name="1.2"></a> 1.2 Installation
 
-- Command Line for Installing PyTorch 2.6 and Dependencies
+- Command Line for Installing PyTorch 2.6
 ```bash=
 pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu124
 ```
