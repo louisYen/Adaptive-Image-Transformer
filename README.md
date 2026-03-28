@@ -76,7 +76,7 @@ ait/
 python adaptive_image_transformer.py
 ```
 
-You'll see that the output shows, for example, 128 proposals from Faster R-CNN and a batch size of 4. The proposal input is shaped as `batch_size × num_proposals` along the first dimension, and the module outputs refined proposal features.
+For example, 128 proposals from Faster R-CNN and a batch size of 4. The proposal input is shaped as `batch_size × num_proposals` along the first dimension, and the AIT module outputs refined proposal features. You'll see that the output shows:
 ```bash=
 --------------------------------------------------
 Input shape:
