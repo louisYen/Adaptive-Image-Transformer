@@ -11,10 +11,6 @@ This repository provides the official implementation of the key modules introduc
 
 ---
 
-## 🔥 Updates
-
-- Accepted to CVPR 2021
-
 <table width="100%" border=1 frame=void rules=cols>
   <tr>
   <td style="border-left-style:none; border-right-style:none;">
@@ -28,6 +24,11 @@ This repository provides the official implementation of the key modules introduc
     <a href="#5">5. Acknowledgements</a><br>
   </tr>
 </table>
+
+
+## 🔥 Updates
+
+- Accepted to CVPR 2021
 
 ## 🛠️ <a name="1"></a> 1. Setup
 
