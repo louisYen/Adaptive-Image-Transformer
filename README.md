@@ -64,9 +64,9 @@ pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https
 $ tree ait
 ait/
 └── transformer
-    ├── Layers.py
+    ├── Layers.py    # Encoder and Decoder layers
     ├── Models.py    # Adaptive Image Transformer (AIT) implementation
-    ├── Modules.py
+    ├── Modules.py   # Scaled dot product attention
     └── SubLayers.py # Selective Channel Attention (SCA) module
 ```   
 
