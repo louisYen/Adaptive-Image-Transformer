@@ -102,9 +102,7 @@ If you find this work helpful for your research, please cite the following paper
 
 ```bibtex
 @inproceedings{ChenHL21,
-  author       = {Ding{-}Jie Chen and
-                  He{-}Yen Hsieh and
-                  Tyng{-}Luh Liu},
+  author       = {Ding-Jie Chen and He-Yen Hsieh and Tyng-Luh Liu},
   title        = {Adaptive Image Transformer for One-Shot Object Detection},
   booktitle    = {CVPR},
   pages        = {12247--12256},
