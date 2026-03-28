@@ -9,6 +9,8 @@ This repository provides the official implementation of the key modules introduc
 
 **TL;DR:** AIT uses an encoder-decoder architecture for adaptive proposal-query alignment, along with selective channel attention (SCA) that amplifies or suppresses contributions across heads
 
+<a href="https://homepage.iis.sinica.edu.tw/~liutyng/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/3W9vtBl.png" alt="Logo" width="20" height="20"/></a> By Ding-Jie Chen, He-Yen Hsieh, and Tyng-Luh Liu
+
 ###### tags: `transformer`, `encoder-decoder`, `attention`, `object detection`
 
 ---
